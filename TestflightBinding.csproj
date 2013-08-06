@@ -53,5 +53,6 @@
     <Compile Include="libTestFlight.linkwith.cs">
       <DependentUpon>libTestFlight.a</DependentUpon>
     </Compile>
+    <Compile Include="testflight-cplusplus.cs" />
   </ItemGroup>
 </Project>

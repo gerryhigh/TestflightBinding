@@ -13,7 +13,7 @@ using MonoTouch.Foundation;
 
 namespace TestFlightBinding
 {
-	public partial class TestFlight2 : NSObject
+	public partial class TestFlight : NSObject
 	{
 		[DllImport("__Internal", EntryPoint = "TFLog")]
 		private extern static void WrapperTfLog(IntPtr handle);
