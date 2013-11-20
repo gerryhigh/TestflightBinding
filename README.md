@@ -1,4 +1,4 @@
 TestflightBinding
 =================
 
-Xamarin.iOS binding for TestFlight SDK 1.2.6
+Xamarin.iOS binding for TestFlight SDK 2.0.2
